@@ -4,7 +4,7 @@ RESTful API Documentation Using Swagger and Spring Boot
 
 ## Authentication
 
-The REST API is currently secured with Basic Authentication. The application has one built in user with name `api-user` and password `password`. 
+The REST API is currently secured with Basic Authentication.   The application has one built in user with name `api-user` and password `password`. 
 
 # Exploring the REST API with a built in Swagger UI client
 
