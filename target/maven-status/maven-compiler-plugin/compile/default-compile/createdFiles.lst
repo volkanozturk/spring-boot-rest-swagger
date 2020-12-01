@@ -1,0 +1,6 @@
+com/volkanozturk/swaggerspringboot/SpringBootSwaggerApplication.class
+com/volkanozturk/swaggerspringboot/model/Director.class
+com/volkanozturk/swaggerspringboot/api/MovieController.class
+com/volkanozturk/swaggerspringboot/api/DirectorController.class
+com/volkanozturk/swaggerspringboot/model/Movie.class
+com/volkanozturk/swaggerspringboot/config/SwaggerConfig.class
